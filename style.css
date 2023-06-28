@@ -25,6 +25,7 @@
 }
 figcaption {
   text-align: center;
+  color: rgb(147, 147, 147);
 }
 .future strong {
   color: orangered;
@@ -41,6 +42,8 @@ figcaption {
 h2 {
   border-bottom: 1px solid aqua;
   padding-bottom: 20px;
+  margin-top: 50px;
+  margin-bottom: 40px;
 }
 li {
   line-height: 30px;
