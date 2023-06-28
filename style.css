@@ -46,11 +46,14 @@ h2 {
   margin-bottom: 40px;
 }
 li {
-  line-height: 30px;
+  margin-bottom: 20px;
 }
 footer a {
   color: lightseagreen;
 }
 figure {
   margin: 0px;
+}
+h1 {
+  text-align: center;
 }
